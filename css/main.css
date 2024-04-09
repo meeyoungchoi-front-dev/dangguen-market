@@ -77,3 +77,18 @@ img {
     padding: 10px 15px 10px 15px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
+
+.reply {
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.like {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
