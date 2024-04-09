@@ -1,0 +1,57 @@
+@import "/css/reset.css";
+
+header, main, footer {
+    width: 50%;
+    height: 100%;
+}
+
+header {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+
+}
+
+.info-bar__time {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.info-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 0 10px 0 10px;
+}
+
+.info-bar__icons img {
+    width: 15px;
+}
+
+.menu-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 0 15px 0 15px;
+    margin-top: 10px;
+}
+
+.menu-bar__location {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.menu-bar img {
+    width: 25px;
+    margin-right:10px;
+}
+
+.menu-bar__location-icon {
+    display: flex;
+    align-items: center;
+    padding-top: 1px;
+}
+
+
