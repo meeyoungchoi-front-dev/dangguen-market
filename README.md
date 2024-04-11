@@ -1,6 +1,7 @@
 # welcome to dangguen-market clone
 
-# Vite 서버 + SVELTE 프레임워크 적용 
+# Vite 서버 + SVELTE 프레임워크 적용하여 배포
+[배포 URL](https://dangguen-market-332f6.web.app/)
 
 This template should help get you started developing with Svelte in Vite.
 
